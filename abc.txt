@@ -1,3 +1,6 @@
 scjscjscjscsjcs
 
 djasdajdjaj
+git remote add origin https://github.com/devopssyam/test.git
+smcnsncnsncs
+sbcjscnbsbcs
